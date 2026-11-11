@@ -1,0 +1,8 @@
+{
+  "webhook_url": "",
+  "api_base": "https://api.spooncast.net",
+  "djs": ["dj닉네임1", "dj태그2", "12345678"],
+  "poll_seconds": 60,
+  "max_pages": 5,
+  "message": "@everyone {name}님이 스푼 방송을 시작했어요! 🎙️\n{title}\n{link}"
+}
